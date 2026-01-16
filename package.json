@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "start": "nodemon --exec babel-node src/index.js",
-  "test": "echo 'All tests passed!' && exit 0",
-  "lint": "echo 'Linting passed!' && exit 0"
-}
+    "start": "nodemon --exec babel-node src/index.js",
+    "test": "echo \"All tests passed!\" && exit 0",
+    "lint": "echo \"Linting passed!\" && exit 0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -24,3 +24,4 @@
     "uuid": "^8.3.2"
   }
 }
+
